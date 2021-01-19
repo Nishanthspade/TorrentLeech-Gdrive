@@ -14,4 +14,4 @@ class Config(Config):
     CLONE_COMMAND_G = "gclone@groupname"
     PYTDL_COMMAND_G = "pytdl@groupname"
     DESTINATION_FOLDER = "Spade-drive"
-    LEECH_COMMAND = "leech@spade_leechbot"
+    LEECH_COMMAND = "leech"
