@@ -3,7 +3,7 @@ from tobrot.sample_config import Config
 #read readme too before filling these stuffs
 
 class Config(Config):
-    TG_BOT_TOKEN= "10your2910:AAE-IeBloaZ-your-hmhQXqLQ" #imp
+    TG_BOT_TOKEN= "1535821528:AAEGZ12CxEpQVn6tKyPJEzqs-5Z1Avsnh30" #imp
     APP_ID = 2442994 #imp
     API_HASH = "7e478984273964dc9e787b984d7e9c8c" #imp
     AUTH_CHANNEL = [-1001309737901] #imp replace your_id with your id from telegram or delete
