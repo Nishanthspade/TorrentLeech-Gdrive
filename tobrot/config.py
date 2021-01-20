@@ -11,7 +11,7 @@ class Config(Config):
     GLEECH_COMMAND = "gleech@spade_leechbot"
     YTDL_COMMAND = 'ytdl@spade_leechbot'
     TELEGRAM_LEECH_COMMAND_G = "tleech@spade_leechbot"
-    CLONE_COMMAND_G = "gclone@groupname"
-    PYTDL_COMMAND_G = "pytdl@groupname"
+    CLONE_COMMAND_G = "gclone"
+    PYTDL_COMMAND_G = "pytdl"
     DESTINATION_FOLDER = "Spade-drive"
     LEECH_COMMAND = "leech"
